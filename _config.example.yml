@@ -14,9 +14,9 @@ content_max_width: 800px
 
 # Sidebar
 author:
-  name: Sanonz
-  work: Web Developer &amp; Designer
-  location: Shenzhen, China
+  name: ZHBox
+  work: IOT Edge
+  location: GuangZhou, China
   avatar_url: /images/avatar.jpg
 
 # Links:
@@ -29,7 +29,7 @@ links:
     url: https://twitter.com/sanonze
 
 
-# github comment 
+# github comment
 git_commit:
   enable: true
   client_id: 7fbe80427f54741e289f
