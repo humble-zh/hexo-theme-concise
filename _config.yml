@@ -1,11 +1,9 @@
 # Header
 menu:
   首页: /
-  前端: /categories/front-end
-  后端: /categories/back-end
+  中盒: /zhbox
   标签: /tags
   归档: /archives
-  订阅: /atom.xml
   关于: /about
 
 # Content
@@ -14,19 +12,15 @@ content_max_width: 800px
 
 # Sidebar
 author:
-  name: ZHBox
-  work: IOT Edge
+  name: Zhihong Li
+  work: Program Monkey
   location: GuangZhou, China
   avatar_url: /images/avatar.jpg
 
 # Links:
 links:
   - svg: ./source/svg/_github.svg
-    url: https://github.com/sanonz
-  - svg: ./source/svg/_more.svg
-    url: http://weibo.com/sanonz
-  - svg: ./source/svg/_twitter.svg
-    url: https://twitter.com/sanonze
+    url: https://github.com/humble-zh/zhbox
 
 
 # github comment
